@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-anjos)](https://www.linkedin.com/in/matheus-anjos) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anjosma)](https://github.com/anjosma)
+
 <!--
 **anjosma/anjosma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
