@@ -4,6 +4,15 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anjosma)](https://github.com/anjosma) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0E8ED4?style=flat-square&logo=Telegram&logoColor=white&link=mailto:anjos97.matheus@gmail.com)](https://t.me/anjosmatheus)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anjos97.matheus@gmail.com)](mailto:anjos97.matheus@gmail.com)
+
+<p align="center">
+<a href="https://github.com/anjosma">
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=anjosma&show_icons=true" />
+<img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjosma&layout=compact" />
+</a>
+</p>
+
+
 <!--
 **anjosma/anjosma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
